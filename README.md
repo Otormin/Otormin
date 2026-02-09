@@ -1,6 +1,10 @@
-# Hi there, I'm Young Jesse 👋
+<div align="center">
 
-**Full-Stack Developer | ASP.NET C# Specialist | React Developer | Machine Learning Enthusiast**
+# Hi there, I'm Young Jesse 👋
+**Full-Stack Engineer | ASP.NET C# Specialist | React Developer | Machine Learning Enthusiast**
+
+---
+</div>
 
 ## 💫 About Me:
 I am a results-driven Software Engineer based in **Lagos, Nigeria**, specializing in building scalable, secure, and high-performance web applications. <br>My core expertise lies in the **ASP.NET Core (C#)** ecosystem, building user friendly interfaces using **React**, complemented by a strong background in **Machine Learning** and **Full-Stack Development**.<br>I combine strong backend development skills with machine learning capabilities to create intelligent, data-driven solutions.<br><br>
